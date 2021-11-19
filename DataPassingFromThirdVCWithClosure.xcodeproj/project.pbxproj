@@ -62,8 +62,8 @@
 			children = (
 				041BFBAA26EC72EC0058FDD2 /* AppDelegate.swift */,
 				041BFBAC26EC72EC0058FDD2 /* SceneDelegate.swift */,
-				04850358274217D7007D5724 /* View Controllers */,
 				0485035A274217EE007D5724 /* Resources */,
+				04850358274217D7007D5724 /* View Controllers */,
 				041BFBB826EC72ED0058FDD2 /* Info.plist */,
 			);
 			path = BackDataPassingWithClosure;
